@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-# Relógio Digital
+# Previsão do Tempo
 
 A proposta para o desenvolvimento deste projeto foi consumir a API OPENWEATHER e obter a previsão do tempo. Utilizando dos recursos aprendidos durante as aulas do curso de programação FullStack.
 
